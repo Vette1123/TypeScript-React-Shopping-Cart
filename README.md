@@ -1,6 +1,6 @@
 # 🛒 TypeScript React Shopping Cart
 
-> A small storefront with a sliding cart drawer — built to practice typed React state.
+> A small storefront with a sliding cart drawer, built to practice typed React state.
 
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4-3178C6?logo=typescript&logoColor=white)
